@@ -13,6 +13,8 @@ python server.py -H <ip> -p <port>
 default paramerters can be changed to run script without params
  
 # accesing live feed:
-https://<ip>:<port>/
+https://localhost:5000/
+or 
+https://IP:PORT
 
  
